@@ -18,6 +18,8 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 
 * I'm making an edit to the node file!!!
 
+* IM MAKING ANOTHER EDIT
+
 **This project is bound by a [Code of Conduct][].**
 
 # Table of contents
